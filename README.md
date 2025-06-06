@@ -1,6 +1,6 @@
 # Moji
 
-This Turborepo starter is maintained by the Turborepo core team.
+A minimal and friendly expense tracker app to help you stay mindful with your money — with a touch of charm.
 
 ## What's inside?
 
